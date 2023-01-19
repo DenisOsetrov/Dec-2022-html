@@ -1,0 +1,50 @@
+.family /*Звернення до класу в div*/
+{
+    width: 400px;
+    height: 200px;
+    background: silver;
+    padding: 10px; /*Відстань блоку до контенту*/
+    /*!*display: block;*!             /* відображати як блок*/
+    /*display: none;*/                 /* приховати елемент, не відображати на дісплеї*/
+    box-sizing: border-box; /*Залишаем розмір коробки незмінним. Використовується завжди/часто*/
+    /*padding-top: 50px;*/
+    /*padding-bottom: 20px;*/
+    /*padding-right: 30px;*/
+    /*padding-left: 15px;*/
+    /*padding: 10px 20px 20px 20px;*/   /*Можна задати розміри padding за раз: вгорі, праворуч, низ, ліворуч*/
+    /*padding: 10px 20px;*/             /*вгорі, низ-10; праворуч-ліворуч-20*/
+    /*padding: 10px 20px 25px;*/        /*вгорі-10, праворуч, ліворуч-20, низ-25*/
+    margin: 30px 20px;                  /*веде себе як padding*/
+    border: 3px solid red;              /*Border - рамка блоку. Збільшує загальний розмір елемент так само як і padding. Визначається за допомоги 3х властивостей : товщина, тип та колір рамки.*/
+    /*solid - суцільна рамка*/
+    /*dotted - крапкова рамка*/
+    /*dashed - пунктирна рамка*/
+    /*border-top: 3px solid red;*/
+    /*border-right: 3px solid red;*/
+    /*border-bottom: 3px solid red;*/
+    /*border-left: 3px solid red;*/
+    border-radius: 15px;                       /*радіус на рамці;*/
+    /*border-top-left-radius: 20px;*/
+    /*border-top-right-radius-radius: 20px;*/
+    /*border-bottom-left-radius: 20px;*/
+}
+.paragraph{
+    font-size: small;
+    width: 400px;
+    height: 1em;  /* ---розмір 1em<30px в межах одного елемента*/
+    /* height: 10%;  ---розмір у % в межах одного елемента*/
+    background: silver;
+}
+.image{                    /*Адаптива картинка - змінює розмір*/
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+.foo{
+    width: 600px;
+    height: auto;
+    padding: 1em;
+    background: blue;
+    text-align: justify; /*вирівнювання тексту по горизонталі*/
+    border: solid;
+}

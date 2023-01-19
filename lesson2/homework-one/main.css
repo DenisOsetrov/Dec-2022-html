@@ -1,0 +1,44 @@
+body
+{
+    margin: 0;
+}
+.father{
+    width: 900px;
+    background: aquamarine;
+    display: flex;
+    flex-direction: column;         /*розміщення блоків в стовпчик*/
+    justify-content: center;        /*вирівнювання блоків по горизонталі*/
+    align-items: center;            /*вирівнювання в блоці по центру*/
+    row-gap: 10px;
+    color: silver;
+}
+.big-box:nth-child(1) {
+    background: blue;
+    margin-top: 10px;
+}
+.big-box:nth-child(2) {
+    background: none;
+    justify-content: space-between;
+}
+.big-box:nth-child(3){
+    background: blue;
+    margin-bottom: 10px;
+}
+.big-box{
+    width: 880px;
+    height: 200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    font-size: 2em;
+}
+.box {
+    width: 285px;
+    height: 200px;
+    background: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

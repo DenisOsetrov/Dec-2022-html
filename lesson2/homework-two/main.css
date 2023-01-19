@@ -1,0 +1,34 @@
+body
+{
+    margin: 0;
+}
+#father {
+    height: auto;
+    background: silver;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+    grid-column-gap: 35px;
+    flex-wrap: wrap;
+}
+.box {
+    display: flex;
+    width: 30%;
+    height: 90%;
+    background: darkolivegreen;
+    border: solid 3px #780f0f;
+    flex-direction: column;
+    align-items: center;
+}
+.small {
+    display: flex;
+    width: 80%;
+    height: 2em;
+    background: darkolivegreen;
+    border: solid 3px #780f0f;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
