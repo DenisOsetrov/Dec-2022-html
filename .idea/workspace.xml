@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a15a129-6677-4916-87bf-7f80aaf9dfb1" name="Changes" comment="Готова робота">
-      <change afterPath="$PROJECT_DIR$/lesson1/main.css" afterDir="false" />
+    <list default="true" id="8a15a129-6677-4916-87bf-7f80aaf9dfb1" name="Changes" comment="Готова робота зі стилями">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lesson1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
     </list>
@@ -30,6 +29,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2KTQsi8BcnwInP2R3yjRVp1jYtR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -86,7 +88,7 @@
       <workItem from="1674032039291" duration="10750000" />
       <workItem from="1674064624051" duration="3724000" />
       <workItem from="1674132410033" duration="2900000" />
-      <workItem from="1674146440797" duration="1576000" />
+      <workItem from="1674146440797" duration="2718000" />
     </task>
     <task id="LOCAL-00001" summary="Готова робота">
       <created>1674005151864</created>
@@ -95,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674005151864</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Готова робота зі стилями">
+      <created>1674148339533</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674148339533</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Готова робота" />
-    <option name="LAST_COMMIT_MESSAGE" value="Готова робота" />
+    <MESSAGE value="Готова робота зі стилями" />
+    <option name="LAST_COMMIT_MESSAGE" value="Готова робота зі стилями" />
   </component>
 </project>
