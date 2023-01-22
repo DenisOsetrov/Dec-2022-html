@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8a15a129-6677-4916-87bf-7f80aaf9dfb1" name="Changes" comment="Готова робота зі стилями">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework-one/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework-one/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework-two/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson2/homework-two/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-full-progect/box.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8a15a129-6677-4916-87bf-7f80aaf9dfb1" name="Changes" comment="Homework 2 lesson" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -98,7 +90,7 @@
       <workItem from="1674200988918" duration="15610000" />
       <workItem from="1674290931149" duration="24000" />
       <workItem from="1674333401881" duration="13969000" />
-      <workItem from="1674380696722" duration="9858000" />
+      <workItem from="1674380696722" duration="10165000" />
     </task>
     <task id="LOCAL-00001" summary="Готова робота">
       <created>1674005151864</created>
@@ -128,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674160834611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Homework 2 lesson">
+      <created>1674395953739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674395953739</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -137,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Готова робота" />
     <MESSAGE value="Готова робота зі стилями" />
-    <option name="LAST_COMMIT_MESSAGE" value="Готова робота зі стилями" />
+    <MESSAGE value="Homework 2 lesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2 lesson" />
   </component>
 </project>
