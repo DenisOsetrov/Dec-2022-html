@@ -1,0 +1,125 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.father {
+    width: 800px;
+    height: 400px;
+}
+.box-a {
+    width: 800px;
+    height: 100px;
+    background: #783b0f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-bcdef {
+    width: 800px;
+    height: 300px;
+    display: flex;
+}
+.container-bcde {
+    width: 600px;
+    height: 300px;
+    background: #a64e41;
+    display: flex;
+    flex-direction: column;
+}
+.box-b {
+    width: 100%;
+    height: 50%;
+    background: #a24807;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container-cde {
+    width: 100%;
+    height: 50%;
+    background: #ef6c0e;
+    display: flex;
+}
+.box-c {
+    width: 100%;
+    height: 100%;
+    background: #f89b21;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-d {
+    width: 100%;
+    height: 100%;
+    background: #eca547;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-e {
+    width: 100%;
+    height: 100%;
+    background: #fddcb0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box-f {
+    width: 200px;
+    height: 300px;
+    background: #e1941c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media screen and (min-width: 0) and (max-width: 800px) {
+.father {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+    .box-a {
+        width: 100%;
+        height: 30px;
+        background: #6a92b6;
+    }
+    .container-bcdef {
+        width: 100%;
+        flex-direction: column;
+        height: 500px;
+    }
+    .container-bcde {
+        width: 100%;
+        height: 100%;
+    }
+    .box-b {
+        width: 100%;
+        height: 70%;
+        background: #08345b;
+    }
+    .container-cde {
+        width: 100%;
+        height: 30%;
+    }
+    .box-c {
+        width: 100%;
+        height: 100%;
+        background: #165085;
+    }
+    .box-d {
+        width: 100%;
+        height: 100%;
+        background: #2d81cb;
+    }
+    .box-e {
+        width: 100%;
+        height: 100%;
+        background: #6ab2f5;
+    }
+    .box-f {
+        width: 100%;
+        height: 100px;
+        background: #adcfee;
+    }
+
+}

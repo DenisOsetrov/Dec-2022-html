@@ -12,6 +12,16 @@ body
     row-gap: 10px;
     color: silver;
 }
+.big-box{
+    width: 880px;
+    height: 200px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 10px;
+    font-size: 2em;
+}
 .big-box:nth-child(1) {
     background: blue;
     margin-top: 10px;
@@ -23,16 +33,6 @@ body
 .big-box:nth-child(3){
     background: blue;
     margin-bottom: 10px;
-}
-.big-box{
-    width: 880px;
-    height: 200px;
-
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    column-gap: 10px;
-    font-size: 2em;
 }
 .box {
     width: 285px;
